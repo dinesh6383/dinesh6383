@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Dinesh R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [https://dinesh-r-portfolio.netlify.app/](https://dinesh-r-portfolio.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Frontend Technology**
 
 - 📫 How to reach me **dineshravi6383@gmail.com**
 
