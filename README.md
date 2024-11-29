@@ -4,11 +4,11 @@
 
 - 👨‍💻 All of my projects are available at [https://dinesh-r-portfolio.netlify.app/](https://dinesh-r-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, node**
+- 💬 Ask me about **Frontend, Backe d or Fullstack**
 
 - 📫 How to reach me **dineshravi6383@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1toi0ZXh70LDglh4bt9oQoDka4-WbYR1h/view?usp=sharing](https://drive.google.com/file/d/1toi0ZXh70LDglh4bt9oQoDka4-WbYR1h/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1toi0ZXh70LDglh4bt9oQoDka4-WbYR1h/view?usp=sharing](https://drive.google.com/file/d/1Evtf1TP8mNygyimUOhoHWAebBedadQBN/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
